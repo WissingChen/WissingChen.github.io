@@ -4,24 +4,31 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
+
+# CV
+#### 三个方向
+# Causal
+# Embodied
+# Medical
+# Blog 写一些文档
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "CV"
+    url: /cv/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
