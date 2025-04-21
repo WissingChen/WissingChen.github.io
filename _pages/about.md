@@ -17,13 +17,15 @@ I am currently pursuing a Ph.D. at the School of Computer Science at Sun Yat-sen
 Research
 ======
 - [Multi-modal Causality](./)
-- Embodied AI
-- Medical Image Analysis
+- [Embodied AI](./)
+- [Medical Image Analysis](./)
 
 News
 ======
+- 2025-04: Our CRA-GQA is selected as **CVPR 2025 Highlight**!🎉
+- 2025-03: One paper is accepted by **CMIG**!🎉
 - 2025-02: Three papers are accepted by **CVPR 2025**!🤓
-- 2025-01: One papers are accepted by **ICLR 2025**!🎉
+- 2025-01: One paper is accepted by **ICLR 2025**!🎉
 - 2024-09: I start pursuing PhD degree in SYSU!🚀
 
 Activities
@@ -37,3 +39,4 @@ Reviewer for:
 - ICLR
 - ICML
 - AAAI
+- ICCV
