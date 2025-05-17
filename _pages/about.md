@@ -22,6 +22,7 @@ Research
 
 News
 ======
+- 2025-05：Our Embodied AI Survey paper is accepted by **IEEE/ASME Transactions on Mechatronics**!
 - 2025-05: One paper is accepted by **IEEE Transaction on Image Processing**!🎉
 - 2025-04: Our CRA-GQA is selected as **CVPR 2025 Highlight**!🎉
 - 2025-03: One paper is accepted by **CMIG**!🎉
