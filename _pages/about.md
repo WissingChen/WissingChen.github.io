@@ -22,8 +22,8 @@ Research
 
 News
 ======
-- 2025-09: Obtained the Presidential Fellowship 2024 (Rank 1/61).
-- 2025-07: One paper is accepted by **ACM MM 2025** !🎉
+- 2025-09: Obtained the **Presidential Fellowship** (校长奖学金) 2024 (Rank 1/61).
+- 2025-07: One paper is accepted by **ACM MM 2025 Oral** !🎉
 - 2025-06: One paper is accepted by **ICCV 2025** !🎉
 - 2025-05: Our Embodied AI Survey paper is accepted by **IEEE/ASME Transactions on Mechatronics** !🎉
 - 2025-05: One paper is accepted by **IEEE Transaction on Image Processing** !🎉
