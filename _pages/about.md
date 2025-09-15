@@ -22,6 +22,7 @@ Research
 
 News
 ======
+- 2025-09: Obtained the Presidential Fellowship 2024 (Rank 1/61).
 - 2025-07: One paper is accepted by **ACM MM 2025** !🎉
 - 2025-06: One paper is accepted by **ICCV 2025** !🎉
 - 2025-05: Our Embodied AI Survey paper is accepted by **IEEE/ASME Transactions on Mechatronics** !🎉
@@ -34,11 +35,18 @@ News
 
 Activitiess
 ======
-Reviewer for:
+**Reviewer for Journals**:
 
-- IEEE Transactions on Neural Networks and Learning Systems,
-- Medical Image Computing and Computer Assisted Interventions (MICCAI).
-- ACM MM 2024, ACM MM 2025
-- ECCV 2024, ICCV 2025
-- NeurIPS 2024, NeurIPS 2025, ICLR 2025, ICML 2025 
-- AAAI 2024
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Neural Networks and Learning Systems
+- Visual Computer
+
+**Reviewer for Conferences**：
+- IEEE/CVF International Conference on Computer Vision (ICCV)
+- ACM Multimedia (ACM MM)
+- European Conference on Computer Vision (ECCV)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- Conference on Neural Information Processing Systems (NeurIPS)
+- International Conference on Learning Representations (ICLR)
+- International Conference on Machine Learning (ICML)
