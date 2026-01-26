@@ -22,11 +22,13 @@ Research
 
 News
 ======
-- 2025-09: Obtained the **Presidential Fellowship** (校长奖学金) 2024 (Rank 1/61).
+- 2026-01: One paper is accepted by **ICLR 2026** !🎉
+- 2025-11: One T-IP paper is selected as the **ESI Highly Cited Paper**!
+- 2025-09: Obtained the **Presidential Fellowship** (校长奖学金) 2024， Rank 1/61.
 - 2025-07: One paper is accepted by **ACM MM 2025 Oral** !🎉
 - 2025-06: One paper is accepted by **ICCV 2025** !🎉
-- 2025-05: Our Embodied AI Survey paper is accepted by **IEEE/ASME Transactions on Mechatronics** !🎉
-- 2025-05: One paper is accepted by **IEEE Transaction on Image Processing** !🎉
+- 2025-05: Our Embodied AI Survey paper is accepted by **IEEE/ASME T-Mechatronics** !🎉
+- 2025-05: One paper is accepted by **IEEE T-IP** !🎉
 - 2025-04: Our CRA-GQA is selected as **CVPR 2025 Highlight** !🎉
 - 2025-03: One paper is accepted by **CMIG** !🎉
 - 2025-02: Three papers are accepted by **CVPR 2025** !🤓
@@ -40,13 +42,15 @@ Activitiess
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Neural Networks and Learning Systems
+- Pattern Recognition
 - Visual Computer
 
 **Reviewer for Conferences**：
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - IEEE/CVF International Conference on Computer Vision (ICCV)
-- ACM Multimedia (ACM MM)
 - European Conference on Computer Vision (ECCV)
 - AAAI Conference on Artificial Intelligence (AAAI)
 - Conference on Neural Information Processing Systems (NeurIPS)
 - International Conference on Learning Representations (ICLR)
 - International Conference on Machine Learning (ICML)
+- ACM Multimedia (ACM MM)
