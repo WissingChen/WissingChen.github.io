@@ -22,6 +22,7 @@ Research
 
 News
 ======
+- 2026-02: Two paper are accepted by **CVPR 2026** !🎉
 - 2026-01: One paper is accepted by **ICLR 2026** !🎉
 - 2025-11: One T-IP paper is selected as the **ESI Highly Cited Paper**!
 - 2025-09: Obtained the **Presidential Fellowship** (校长奖学金) 2024， Rank 1/61.
